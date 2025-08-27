@@ -1,5 +1,8 @@
 # Data Analysis to predict Coupon Acceptance 
 
+# Notebook link: 
+https://github.com/rakeshagf/eda_coupons/blob/main/eda_coupons.ipynb
+
 # Problem
 The goal of this project is to exercise the learnings on visualizations and probability distributions to distinguish between customers who accepted a driving coupon versus those who did not. 
 
